@@ -37,8 +37,7 @@ Pack.
 
 ## Sample Application and Session
 
-If you want to test this out or see what data is captured by dynaTrace check out the [sample application](MongoDB2_example_src.zip) or import the sample [dynaTrace session
-file](attachments_147751393_1_mongodb.dts).
+If you want to test this out or see what data is captured by dynaTrace check out the [sample application](MongoDB2_example_src.zip) or import the sample [dynaTrace sessionfile](mongodb.dts).
 
 ## Screenshots
 
