@@ -4,4 +4,4 @@
 MongoDB queriees executed by your .NET Application
 
 
-Find further information in the [dynaTrace community](https://community.compuwareapm.com/community/display/DL/MongoDB+for+.NET+FastPack)
+Find further information in the [dynaTrace community](https://community.dynatrace.com/community/display/DL/MongoDB+for+.NET+FastPack)
